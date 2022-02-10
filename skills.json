@@ -1,7 +1,6 @@
 {
- "After cours Vadima Ksenddzova I will be  able to use":{
-     "GitBash and GitHub" 
- }, 
-  "make" : { "BugReports,checklists"},
- "use" : { "bug-traking sistem ,write sql-queries and basics Python"}
+ "After cours Vadima Ksenddzova I will be  able to use" :
+  ["Git Bash","GitHub"],
+ "make": [ "BugReports", "CheckLists"],
+ "use " : ["bug-traking sistem", "write sql-queries", "basics Python"]
 }
